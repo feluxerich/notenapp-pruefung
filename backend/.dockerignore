@@ -1,0 +1,4 @@
+*.pdf
+Dockerfile
+venv
+.gitignore
